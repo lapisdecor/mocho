@@ -1,3 +1,4 @@
-# samplehelloworld
+# mocho
 
-Once there was a big giant who needed a pair of shoes
+This is not a project. It's only my playground for learning git and to keep some stuff I did while learning more python.
+I might put some links to resources here too.
